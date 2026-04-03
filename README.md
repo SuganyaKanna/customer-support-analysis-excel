@@ -18,3 +18,8 @@ Provided insights to improve customer support efficiency and decision-making.
 
 ## Dashboard Preview
 
+![Dashboard 1](dashboardimage1.png)
+![Dashboard 2](dashboardimage2.png)
+![Dashboard 3](dashboardimage3.png)
+![Dashboard 4](dashboardimage4.png)
+
